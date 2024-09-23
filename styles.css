@@ -116,7 +116,6 @@ nav ul li a:hover {
 .project-card img {
     width: 80%;
     height: auto;
-    max-height: 150px;
     border-radius: 8px;
     margin-bottom: 15px;
 }
