@@ -112,6 +112,15 @@ nav ul li a:hover {
     color: #e0e0e0;
 }
 
+/* Project Images */
+.project-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+
 /* Contact Section */
 #contact {
     padding: 50px 20px;
